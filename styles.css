@@ -6,6 +6,30 @@ border: 5px solid darksalmon ;
 border-radius: 45px;
 padding: 8px;}
 
+.topnav {
+  overflow: hidden;
+  background-color: #fafada;
+}
+
+.topnav a {
+  float: left;
+  color: #d39d83;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #d39d83;
+  color: lightgoldenrodyellow;
+}
+
+.topnav a.active {
+  background-color: #6b1e14;
+  color: mistyrose;
+}
+
 h3 {text-align: center ;
     color:brown;
     background-color:mistyrose; 
