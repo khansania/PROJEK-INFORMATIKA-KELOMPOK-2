@@ -106,7 +106,7 @@ body {
   font-size: 20px;
   font-family: 'Nunito', sans-serif;
   font-weight: 800;
-  height: 25vh;
+  height: 50vh;
 }
 
 h3 {text-align: left;
@@ -175,6 +175,38 @@ h3 {text-align: left;
   color:#fc18ab;
  }
 
+.despro {text-align: center ;
+  font-family: "Nunito", sans-serif;
+  font-weight:bold;
+  font-size: larger;
+  color: white;
+  text-shadow: 1px 1px 2px #fff8d2, 0 0 25px #fc18ab, 0 0 5px #ffe5f6;
+  padding : 35px;
+ }
+
+.klom{
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+.tegh{
+  width: 100%;
+  text-align: center;
+}
+
+.tgh{
+  width:85%;
+  text-align:center;
+  margin: auto;
+}
+
+.htiga{
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+  text-shadow: 2px 2px 5px #fc18ab;
+  margin: auto;
+  color: white;
+}
 
 
 
